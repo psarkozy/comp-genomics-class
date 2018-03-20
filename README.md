@@ -1,9 +1,9 @@
 Computational Genomics
 ======================
 
-Code and examples for JHU Computational Genomics class.  Please feel free to submit [issues].
+Code and examples for AIT Computational Biology class.  Please feel free to submit [issues].
 
-[issues]: https://github.com/BenLangmead/comp-genomics-class/issues
+[issues]: https://github.com/psarkozy/comp-genomics-class/issues
 
 Concept notebooks
 -----------------
@@ -11,42 +11,42 @@ Concept notebooks
 The `notebooks` subdirectory contains the raw JSON for the iPython notebooks referenced in class.  The notebooks are also available as public GitHub gists and you can view readable versions of them at the following URLs:
 
 * Strings, exact and approximate matching, sorting
-    * [Strings](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_StringBasics.ipynb)
-    * [Naive exact matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Naive.ipynb)
-    * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_ZAlgorithm.ipynb)
-    * [Inverted indexing 1](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex1.ipynb)
-    * [Inverted indexing 2](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
-    * [Naive approximate matching](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
-    * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BoyerMooreApprox.ipynb)
-    * [Radix sort](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Radix.ipynb)
+    * [Strings](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_StringBasics.ipynb)
+    * [Naive exact matching](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_Naive.ipynb)
+    * [Z algorithm (fundamental preprocessing)](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_ZAlgorithm.ipynb)
+    * [Inverted indexing 1](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex1.ipynb)
+    * [Inverted indexing 2](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_InvertedIndex2.ipynb)
+    * [Naive approximate matching](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_NaiveApprox.ipynb)
+    * [Index-assisted Boyer-Moore](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_BoyerMooreApprox.ipynb)
+    * [Radix sort](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_Radix.ipynb)
 * Suffix indexes
-    * [Trie map](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_TrieMap.ipynb)
-    * [Suffix trie](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTrie.ipynb)
-    * [Suffix tree](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTree.ipynb)
-    * [Python binary search](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Bisect.ipynb)
-    * [Suffix array binary search](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BinarySearchSA.ipynb)
-    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_LCP_from_LCP1.ipynb)
-    * [Suffix array and LCPs from Suffix tree](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixTreeToSALcp.ipynb)
-    * [Burrows-Wheeler Transform](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BWT_SimpleBuild.ipynb)
-    * [Reversing BWT](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_BWT_Reverse.ipynb)
-    * [FM Index](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_FmIndex.ipynb)
+    * [Trie map](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_TrieMap.ipynb)
+    * [Suffix trie](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_SuffixTrie.ipynb)
+    * [Suffix tree](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_SuffixTree.ipynb)
+    * [Python binary search](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_Bisect.ipynb)
+    * [Suffix array binary search](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_BinarySearchSA.ipynb)
+    * [Longest common prefix (LCP)](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_LCP_from_LCP1.ipynb)
+    * [Suffix array and LCPs from Suffix tree](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_SuffixTreeToSALcp.ipynb)
+    * [Burrows-Wheeler Transform](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_BWT_SimpleBuild.ipynb)
+    * [Reversing BWT](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_BWT_Reverse.ipynb)
+    * [FM Index](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_FmIndex.ipynb)
 * Pairwise sequence alignment
-    * [Edit distance](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_EditDist.ipynb)
-    * [Global alignment](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_Global.ipynb)
-    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_LCS.ipynb)
-    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_kEditDp.ipynb)
-    * [Local alignment](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_DP_Local.ipynb)
-    * [Index-assisted k-edit dynamic programming](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_kEdit.ipynb)
-    * [String neighborhoods](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_Neighbors.ipynb)
-    * [Co-traversal](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_CoTraversal.ipynb)
+    * [Edit distance](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_DP_EditDist.ipynb)
+    * [Global alignment](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_DP_Global.ipynb)
+    * [Longest common subsequence (LCS)](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_LCS.ipynb)
+    * [k-edit alignment (approximate matching)](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_kEditDp.ipynb)
+    * [Local alignment](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_DP_Local.ipynb)
+    * [Index-assisted k-edit dynamic programming](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_kEdit.ipynb)
+    * [String neighborhoods](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_Neighbors.ipynb)
+    * [Co-traversal](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_CoTraversal.ipynb)
 * Sequence assembly
-    * [Suffix-prefix matches](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_SuffixPrefix_1.ipynb)
-    * [De Bruijn graph](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_deBruijn.ipynb)
-    * [Error correction](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_ErrorCorrect.ipynb)
+    * [Suffix-prefix matches](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_SuffixPrefix_1.ipynb)
+    * [De Bruijn graph](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_deBruijn.ipynb)
+    * [Error correction](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_ErrorCorrect.ipynb)
 * Sequence classification
-    * [Markov chain](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_MarkovChain.ipynb)
-    * [Higher order Markov chain](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_HighOrderMarkovChain.ipynb)
-    * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/CG_HMM.ipynb)
+    * [Markov chain](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_MarkovChain.ipynb)
+    * [Higher order Markov chain](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_HighOrderMarkovChain.ipynb)
+    * [Hidden Markov Model (HMM)](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/CG_HMM.ipynb)
 
 These are for teaching purposes.  They are certainly not meant to be efficient.  Please feel free to submit [issues].
 
@@ -56,9 +56,9 @@ File format notebooks
 The following notebooks describe and explore some common file formats used to store genomics data.  They also include Python code for parsing (and sometimes indexing) the formats.
 
 * File formats
-    * [FASTA](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTA.ipynb)
-    * [FASTQ](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/FASTQ.ipynb)
-    * [SAM](http://nbviewer.ipython.org/github/BenLangmead/comp-genomics-class/blob/master/notebooks/SAM.ipynb)
+    * [FASTA](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/FASTA.ipynb)
+    * [FASTQ](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/FASTQ.ipynb)
+    * [SAM](http://nbviewer.ipython.org/github/psarkozy/comp-genomics-class/blob/master/notebooks/SAM.ipynb)
 
 Other class resources
 ---------------------
@@ -118,7 +118,7 @@ Possible notebook additions
 * Pair HMMs
 * Profile HMMs
 
-Contributors
+Original Author:
 ------------
 
 * [Ben Langmead]
