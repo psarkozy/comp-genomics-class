@@ -3,7 +3,6 @@ Feel free to email me if you have a very specific need not addressed here.  When
 you email me, please be as specific as possible about what sequences you're
 looking for and why.
 
-Also, please share anything new you learn with your classmates via Piazza.
 
 Reference genomes
 -----------------
@@ -70,11 +69,4 @@ humans.  The read files, in the form of [gzip]'ed [FASTQ] files, are available o
 [1000 Genomes Project]: http://www.1000genomes.org
 [project's FTP server]: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data
 
-Protein sequences
------------------
 
-If your project involves aligning protein sequences to each other (e.g.
-multiple alignment), alignment benchmark packages can be a good source
-of example sequences.  Try:
-
-* [PREFAB](http://www.drive5.com/muscle/prefab.htm) (see `in` and `ref` subdirectories of that archive)
