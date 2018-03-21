@@ -63,7 +63,7 @@ The following notebooks describe and explore some common file formats used to st
 Other class resources
 ---------------------
 
-If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible from the JHU campus or via [VPN](http://portalcontent.johnshopkins.edu/sslvpn/JHConnect-FAQ.html) / [library proxy](http://old.library.jhu.edu/services/computing/proxyfaqs.html).
+If you are taking my class and you have any trouble accessing these resources, please contact me and I can help.  All of these articles should be easily accessible.
 
 * Class readings (see syllabus for where these fit in)
     * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/view/1744) by Lawrence Hunter
@@ -100,10 +100,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Write a Genome Assembler](http://nbviewer.ipython.org/urls/raw.github.com/cschin/Write_A_Genome_Assembler_With_IPython/master/Write_An_Assembler.ipynb) by Jason Chin
 * Textbooks and lecture notes for other classes
     * [Algorithms](http://www.cs.berkeley.edu/~vazirani/algorithms/) by Vazirani et al
-        * Check out the first two chapters if you need some analysis review, and check out the chapter on [dynamic programming](http://www.cs.berkeley.edu/~vazirani/algorithms/chap6.pdf).
-* Recorded lectures for this class
-    * [Suffix tries and suffix trees](https://www.youtube.com/watch?v=hLsrPsFHPcQ)
-    * [Burrows-Wheeler Transform](https://www.youtube.com/watch?v=4n7NPk5lwbI)
+
 
 [Bowtie]: http://bowtie-bio.sourceforge.net/index.shtml
 [BWA]: http://bio-bwa.sourceforge.net
